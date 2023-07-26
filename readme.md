@@ -34,5 +34,5 @@
 ## 已完成
 - [x] 获取字幕显示在log
 <p align="center">
-    <img src="./pics/23-07-26.png" width="500" height="400">
+    <img src="./pics/23-07-26.png" >
 </p>
