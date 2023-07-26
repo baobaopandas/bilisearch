@@ -1,13 +1,13 @@
 <h1 align="center">哔哩哔哩-基于记忆搜索视频工具</h1>
 <p align="center">
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/issues" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub issues"/>
+        <img src="https://img.shields.io/github/issues/SocialSisterYi/bilisearch.svg" alt="GitHub issues"/>
     </a>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/stargazers" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/stars/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub stars"/>
+        <img src="https://img.shields.io/github/stars/SocialSisterYi/bilisearch.svg" alt="GitHub stars"/>
     </a>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/network" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/forks/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub forks"/>
+        <img src="https://img.shields.io/github/forks/SocialSisterYi/bilisearch.svg" alt="GitHub forks"/>
     </a>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/LICENSE" style="text-decoration:none" >
         <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="GitHub license"/>
