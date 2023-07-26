@@ -13,8 +13,9 @@ chrome.webRequest.onBeforeRequest.addListener(
             for (let item of data.body) {
                 subtitleString += item.content + "\n";
             }
-            // 在这里，subtitleString 存储了所有的字幕文本。你可以根据需要处理这个字符串。
-            console.log(subtitleString);
+            chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+                chrome.tabs.sendMessage(tabs[0].id, {subtitleData: subtitleString});
+            });
         }
     },
     {urls: ["<all_urls>"]}
